@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeonnam-club-note.nonhyeonnight.xyz/sitemap.xml
